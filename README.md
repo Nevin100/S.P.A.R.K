@@ -1,5 +1,5 @@
 # ⚡ SPARK – Bridging the Gap Between Campus & Code! 🚀
-## Hackathon Project (Currently in buildiung state !!)
+## Hackathon Project (Currently in buildiung stage !!)
 
 ![image](https://github.com/user-attachments/assets/acdf8def-f8c5-44f6-816f-30605bea722b)
 
@@ -109,7 +109,7 @@ So, are you ready to spark the future? 🔥
 
 PRs are welcome. Suggestions are gold.  
 Let’s build the future of dev culture, together. 💬  
-
+https://devfolio.co/@Professor100/projects
 ---
 
 > Made with 💖, code, and a whole lot of ☕ by Nevin Bali and My Dev Friends ...
