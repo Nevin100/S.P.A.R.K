@@ -20,7 +20,6 @@ Too many *bright minds*, too few *real opportunities*. SPARK steps in to tackle:
 - 💤 Missed hackathon goldmines & wasted sponsorship potential
 - 🎓 Zero real-world project practice = 🚫 job-ready
 
-![image](https://github.com/user-attachments/assets/73255ba5-f20a-4aac-890e-c689df4c611b)
 
 ---
 
@@ -46,6 +45,8 @@ SPARK isn’t just another platform. It’s the **ultimate dev ecosystem** 🔥 
 - 💬 Streamlined hackathon support for **both** students and sponsors
 
 ---
+
+![image](https://github.com/user-attachments/assets/73255ba5-f20a-4aac-890e-c689df4c611b)
 
 ## 💸 Revenue Model
 
