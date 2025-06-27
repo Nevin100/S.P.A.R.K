@@ -40,7 +40,7 @@ SPARK isn’t just another platform. It’s the **ultimate dev ecosystem** 🔥 
 ## 🌟 Why SPARK Stands Out
 
 - 👥 Community + Network = Supercharged peer learning
-- 🔓 Open Source meets Real-World Projects
+- 🔓 Open Source meets Real-World Projects and Problem Statements
 - 🔍 AI-Driven Learning → No more aimless tutorials
 - 💬 Streamlined hackathon support for **both** students and sponsors
 
