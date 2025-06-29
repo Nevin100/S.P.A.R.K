@@ -1,5 +1,5 @@
 # ⚡ SPARK – Bridging the Gap Between Campus & Code! 🚀
-## Hackathon Project (Currently in Development stage !!)
+```Hackathon Project (Currently in Development stage !!)```
 
 ![image](https://github.com/user-attachments/assets/acdf8def-f8c5-44f6-816f-30605bea722b)
 
